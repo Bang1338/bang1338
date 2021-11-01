@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Bang1338** is a ✨ _right here_ ✨ , I'm enjoy some stuff :p
 
 Here are some ideas to get you started:
