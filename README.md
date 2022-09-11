@@ -27,8 +27,9 @@ and more but too lazy to include them all :/
 <a href="https://github.com/horsicq/Detect-It-Easy" target="_blank" rel="noreferrer"> <img src="https://appimage.github.io/database/Detect_It_Easy/icons/256x256/die.png" alt="Detect It Easy" width="40" height="40"/> </a>
 <a href="https://notepad-plus-plus.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/1200px-Notepad%2B%2B_Logo.svg.png" alt="Notepad++" width="40" height="40"/> </a>
 <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://taiwebs.com/upload/icons/burp-suite220-220.png" alt="Burp Suite" width="40" height="40"/> </a>
+still lazy to include
 
 # Something
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikinoob)](https://github.com/anuraghazra/github-readme-stats)
+something else i will put here later
 
 # More info soon lol
