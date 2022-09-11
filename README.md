@@ -28,4 +28,7 @@ and more but too lazy to include them all :/
 <a href="https://notepad-plus-plus.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/1200px-Notepad%2B%2B_Logo.svg.png" alt="Notepad++" width="40" height="40"/> </a>
 <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://taiwebs.com/upload/icons/burp-suite220-220.png" alt="Burp Suite" width="40" height="40"/> </a>
 
+# Something
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikinoob)](https://github.com/anuraghazra/github-readme-stats)
+
 # More info soon lol
