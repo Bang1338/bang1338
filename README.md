@@ -12,6 +12,7 @@ Hello there, I'm Bang1338.
 - 👤 Pronoun: he/him
 - 🙁 Still lack of skill.
 - 🏴‍☠️ Still getting software from pirate's boats as long as I can paid
+- I SWEAR IF I HAVE 8GB RAM I CAN GO ANYTHING
 
 # Language I used:
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
