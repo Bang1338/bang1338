@@ -6,6 +6,12 @@ Hello there, I'm Bang1338.
   <img src="https://github.com/Bang1338/bang1338/blob/main/opcydiafp.png">
 </p>
 
+<p align="center">
+<kbd>
+  <img src="https://raw.githubusercontent.com/Bang1338/bang1338/main/gitartwork.svg">
+</kbd>
+</p>
+
 # Intro:
 - 🙂 I'm a normal person.
 - 🌱 Still learning how to code.
