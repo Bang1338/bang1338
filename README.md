@@ -33,7 +33,7 @@ Hello there, I'm Bang1338.
 * Keygen, in a nutshell - like the name said
 * MASM32, in a nutshell - like the name said, again.
 * RETiD - the R18(G) detection for any character from game using AI. Strongly inspired from DiE and PEiD
-* EvenBot - "New day is new event." A Discord bot that show you what is this today. Inspired from 9/2 (Ho Chi Minh reading The Declaration of Independence) and 9/11 (September 11th Attack)
+* EvenBot - "New day is new event." A Discord bot that show you what is this today. Inspired from 9/2 (Ho Chi Minh reading The Declaration of Independence, and... i can't say it.) and 9/11 (September 11th Attack)
 
 # Language I used:
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
