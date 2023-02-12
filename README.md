@@ -27,7 +27,7 @@ Hello there, I'm Bang1338.
 - [Infinite Loop](https://github.com/Bang1338/Infinite-Loop)
 - [Fun code run it.exe Decompiled](https://github.com/Bang1338/fun-code-run-it-exe-decompiled)
 # Upcoming repo/project:
-* Team BGSPA - Software cr@cking + source (since 2018)
+* Team BGSPA - Software cr@cking + source (since 2018 in private until 2020 in public)
 * sEx.h - string Extra, an extra version of string.h (inspired from s/e/x Discord hack, also GitHub pls don't ban me)
 * Crypto.h - Crypto, but using only one header
 * Keygen, in a nutshell - like the name said
