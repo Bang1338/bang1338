@@ -32,7 +32,7 @@ Hello there, I'm Bang1338.
 * Crypto.h - Crypto, but using only one header
 * Keygen, in a nutshell - like the name said
 * MASM32, in a nutshell - like the name said, again.
-* RETiD - the R18(G) detection for any character from game using AI. Strongly inspired from DiE and PEiD
+* RETiD - the R18(G) detection for any character from game using AI. Strongly inspired from DiE and PEiD, Cookie Run and Rhythm Heaven.
 * EvenBot - "New day is new event." A Discord bot that show you what is this today. Inspired from 9/2 (Ho Chi Minh reading The Declaration of Independence, and... i can't say it.) and 9/11 (September 11th Attack)
 
 # Language I used:
