@@ -26,16 +26,20 @@ Hello there, I'm Bang1338.
 - [Cookie Run Name Generator](https://github.com/Bang1338/Cookie-Run-Name-Generator)
 - [Infinite Loop](https://github.com/Bang1338/Infinite-Loop)
 - [Fun code run it.exe Decompiled](https://github.com/Bang1338/fun-code-run-it-exe-decompiled)
+
 # Upcoming repo/project:
 * Team BGSPA - Software cr@cking + source (since 2018 in private until 2020 in public)
-* sEx.h - string Extra, an extra version of string.h (inspired from s/e/x Discord hack, also GitHub pls don't ban me)
+* LIMBO8 - Encryption inspired from Limbo by Mindcap
+~~* sEx.h - string Extra, an extra version of string.h (inspired from s/e/x Discord hack, also GitHub pls don't ban me)~~
+* fakearma - SoftwarePassport Armadillo but fake (for .NET)
+* RAiD Archive - A short aged cr@ck team :(
+
+# In the future
 * Crypto.h - Crypto, but using only one header
 * Keygen, in a nutshell - like the name said
 * MASM32, in a nutshell - like the name said, again.
 * RETiD - the R18(G) detection for any character from game using AI. Strongly inspired from DiE and PEiD, Cookie Run and Rhythm Heaven.
 * EvenBot - "New day is new event." A Discord bot that show you what is this today. Inspired from 9/2 (Ho Chi Minh reading The Declaration of Independence, and... i can't say it.) and 9/11 (September 11th Attack)
-* fakearma - SoftwarePassport Armadillo but fake (for .NET)
-* RAiD Archive - A short aged cr@ck team :(
 
 # Language I used:
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
