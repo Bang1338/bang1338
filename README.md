@@ -26,13 +26,13 @@ Hello there, I'm Bang1338.
 - [Cookie Run Name Generator](https://github.com/Bang1338/Cookie-Run-Name-Generator)
 - [Infinite Loop](https://github.com/Bang1338/Infinite-Loop)
 - [Fun code run it.exe Decompiled](https://github.com/Bang1338/fun-code-run-it-exe-decompiled)
+- [RAiD Release Archive](https://github.com/Bang1338/RAiD-Release-Archive)
 
 # Upcoming repo/project:
 * Team BGSPA - Software cr@cking + source (since 2018 in private until 2020 in public)
 * LIMBO8 - Encryption inspired from Limbo by Mindcap
 ~~* sEx.h - string Extra, an extra version of string.h (inspired from s/e/x Discord hack, also GitHub pls don't ban me)~~
 * fakearma - SoftwarePassport Armadillo but fake (for .NET)
-* RAiD Archive - A short aged cr@ck team :(
 
 # In the future
 * Crypto.h - Crypto, but using only one header
