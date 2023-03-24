@@ -35,6 +35,7 @@ Hello there, I'm Bang1338.
 * RETiD - the R18(G) detection for any character from game using AI. Strongly inspired from DiE and PEiD, Cookie Run and Rhythm Heaven.
 * EvenBot - "New day is new event." A Discord bot that show you what is this today. Inspired from 9/2 (Ho Chi Minh reading The Declaration of Independence, and... i can't say it.) and 9/11 (September 11th Attack)
 * fakearma - SoftwarePassport Armadillo but fake (for .NET)
+* RAiD Archive - A short aged cr@ck team :(
 
 # Language I used:
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
