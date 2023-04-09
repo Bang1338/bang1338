@@ -20,6 +20,8 @@ Hello there, I'm Bang1338.
 - 🏴‍☠️ Still getting software from pirate's boats as long as I can paid
 - I SWEAR IF I HAVE 8GB RAM I CAN DO ANYTHING
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bang1338&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 # My best repo/project:
 - [BetterCSEdit](https://github.com/Bang1338/BetterCSEdit)
 - [iscsdown](https://github.com/Bang1338/iscsdown)
