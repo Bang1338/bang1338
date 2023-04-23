@@ -32,8 +32,8 @@ Hello there, I'm Bang1338.
 
 # Upcoming repo/project:
 * Team BGSPA - Software cr@cking + source (since 2018 in private until 2020 in public)
-* LIMBO8 - Encryption inspired from Limbo by Mindcap
-~~* sEx.h - string Extra, an extra version of string.h (inspired from s/e/x Discord hack, also GitHub pls don't ban me)~~
+* LIMBO8 - 8 bits encryption inspired from Limbo by Mindcap
+* ~~sEx.h - string Extra, an extra version of string.h (inspired from s/e/x Discord hack, also GitHub pls don't ban me)~~
 * fakearma - SoftwarePassport Armadillo but fake (for .NET)
 
 # In the future
