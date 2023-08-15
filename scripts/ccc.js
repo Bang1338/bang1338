@@ -6,10 +6,7 @@ $(document).ready(function () {
     // Hide main content initially
     $('#maincontent').hide();
 
-    // Add click event to button
-    $('#toggleButton').click(function () {
-
-        audio.play();
+	audio.play();
         // Fade out button
         $(this).fadeOut();
 
@@ -35,5 +32,4 @@ $(document).ready(function () {
             });
         }, 4000);
 		*/
-    });
 });
