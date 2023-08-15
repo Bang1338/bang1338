@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+		<script src="/scripts/howler.js"></script>
 		<script src="/scripts/ccc.js"></script>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 		<link rel="stylesheet" type="text/css" href="raid.css" media="screen,projection" />
@@ -15,11 +16,13 @@
 		<div id="contentwrapper">
 		
 			<script>
-			// Audio.
+			// Audio, Using howler.
 			// Fear Factory 2009
-			var audio = document.createElement("AUDIO")
-			document.body.appendChild(audio);
-			audio.src = "/ccc/212261.ogg"
+			var audio = new Howl({
+     			 src: ['212261.ogg'],
+			 loop: true,
+			 autoplay: true // test
+    			});
 			</script>
 
 			<div id="banner">
