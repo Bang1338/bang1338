@@ -91,8 +91,10 @@
 		});
 		
 		$('#myDialog').on('hidden.bs.modal', function (e) {
-			stop();
-			init();
+			pause();
+			// It's a crime to replay them.
+			//stop();
+			//init();
 		});
 	</script>
 </body>
