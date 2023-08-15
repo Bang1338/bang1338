@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Bang1338 - 403!</title>
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=DejaVu+Sans+Mono:wght@400;700&display=swap');
+
+body {
+  background-color: red;
+  color: white;
+  font-family: 'DejaVu Sans Mono', monospace;
+  font-size: 64px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden; 
+}
+
+span {
+  display: inline-block;
+  animation: wave 0.5s ease-in-out infinite alternate;
+  transform: translateY(-3  flex-direction: column;0px); /* offset up */
+}
+
+span:nth-child(1) { animation-delay: 0s; }
+span:nth-child(2) { animation-delay: 0.1s; }  
+span:nth-child(3) { animation-delay: 0.2s; }
+span:nth-child(4) { animation-delay: 0.3s; }   
+
+@keyframes wave {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(10px); }
+}
+
+p {
+  font-family: Monaco, monospace;
+  font-size: 14px;
+  color: gray;
+  margin-top: 50px;
+  transform: translateY(60px); /* offset down */
+}
+
+</style>
+
+</head>
+
+<body>
+
+<span>4</span><span>0</span><span>3</span><span>!</span>
+
+<p>
+Welcome to the Error 403, where the pages<br>  
+you shouldn't enter. What are you doing??<br>
+Hackerman? This site is Cloudflare'd, you<br>
+can't do anything in here. Leave now!!!!! 
+</p>
+
+</body>
+</html>
