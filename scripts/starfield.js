@@ -1,4 +1,4 @@
-// Starfield v2, by you few minutes ago on other session
+// Starfield v2, by bang1338
 
 const canvas = document.querySelector('#starfield');
 const ctx = canvas.getContext('2d');
