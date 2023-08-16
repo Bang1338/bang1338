@@ -3,10 +3,12 @@
 // Hide main content initially
 $('#maincontent').hide();
 
+window.addEventListener('load', (event) => {
 // Show main content
 $('#maincontent').show();
 // Fade in releases and tables one by one
 $('.releasedate').each(function (i) {
         $(this).delay(i * 500).fadeIn();
         $(this).next('table').delay(i * 500).fadeIn();
+});
 });
