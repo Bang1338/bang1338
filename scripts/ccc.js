@@ -3,7 +3,6 @@
 // Hide main content initially
 $('#maincontent').hide();
 
-audio.play();
 // Show main content
 $('#maincontent').show();
 // Fade in releases and tables one by one
