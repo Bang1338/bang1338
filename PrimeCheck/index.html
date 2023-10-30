@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>bang1338 - PNC</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  
+  <style>
+    body {
+      background-color: #000000;
+    }
+
+    .dialog {
+      background-color: #333333;
+      padding: 20px;
+      border-radius: 5px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    h3 {
+      color: #FFFFFF;  
+    }
+
+    input, button {
+      background-color: #FFFFFF;
+    }
+
+    button {
+      background-color: #007bff;
+      border: none;
+    }
+    
+    #status {
+      font-weight: bold;
+    }
+    
+    .prime {
+      color: green;
+    }
+    
+    .not-prime {
+      color: red;
+    }
+	
+	#numInput {
+	  height: 9em; 
+	  display: inline-block;
+	  width: 100%;
+	  box-sizing: border-box;
+      padding: 0.5em;
+      font-family: monospace;
+  
+      resize: none; 
+      overflow: auto;
+    }
+	
+	.dialog {
+		min-height: 16em; 
+	}
+  </style>
+
+</head>
+
+<body>
+
+  <div class="dialog">
+
+  <h3>Prime Number Checker</h3>
+
+  <textarea id="numInput"></textarea>
+  
+  <button onclick="checkPrime()">Check</button>
+
+  <p id="status"></p>
+
+  </div>
+
+  <script src="/scripts/prime.js"></script>
+  
+</body>
+</html>
