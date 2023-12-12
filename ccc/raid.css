@@ -162,3 +162,42 @@ img {
   top: 0px; right: -5px; bottom: 0px; left: 0px;
   overflow: hidden;
 }
+
+/* SCROLLING */
+.marqueecontainer {
+  display: flex;
+  position: absolute;
+  width: 460px;
+  left: 57%;
+  text-align: center;
+  transform: translateX(-50%) translateY(-50%);
+  color: white !important;
+}
+
+.marquee {
+  width: 420px;
+  overflow: hidden;
+  display: inline-block;
+  margin-bottom: -4.5px;
+  font-size: 15px;
+  float: none;
+  text-align: center;
+  white-space: nowrap;
+  position: relative;
+  font-family: 'Monaco';
+  animation: scroll-left 10s linear infinite;
+}
+
+@keyframes scroll-left {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+pre{
+  font-size: 18px;
+  color: white;
+}

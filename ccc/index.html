@@ -1,9 +1,10 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 	<head>
 		<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 		<script src="/scripts/howler.js"></script>
 		<script src="/scripts/ccc.js"></script>
+		<script src="/scripts/audio-viz.js"></script>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 		<link rel="stylesheet" type="text/css" href="raid.css" media="screen,projection" />
 		<link rel="alternate" type="application/rss+xml" title="Cursed Comic RSS Feed" href="index.php?p=rss" />
@@ -14,16 +15,13 @@
 	<body>
 		
 		<div id="contentwrapper">
-   <script>
-		 alert("it's over, my glory has been burried in deepest of the pit. someone owned that glory and never give it back. it's over.")
-   </script>
 			<script>
 			// Audio, Using howler.
 			// Fear Factory 2009
 			var audio = new Howl({
      			 src: ['212261.ogg'],
 			 loop: true,
-			 autoplay: true // test
+			 autoplay: true // loop
     			});
 			</script>
 
@@ -35,6 +33,12 @@
 					<img src="images/fear-factory.png" style="width:400px;height:auto;"/> 
 				</div>
 			</div>
+			
+			<div class="marqueecontainer">
+				<pre>|</pre><Marquee vspace="21px">♪ Now playing: CrimzonWolf777 - Fear Factory 2009 ♪</Marquee><pre>|</pre>
+			</div>
+			
+			<canvas id="audio-viz" style="margin-left: 170px;"></canvas>
 
 			<div id="menu">
 				<ul>
